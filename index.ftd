@@ -4,7 +4,7 @@
 -- import: package/lib as lib
 -- import: package/button as button
 -- import: package/social-buttons as social
--- import: package/footer
+-- import: package/footer as footer
 
 
 
