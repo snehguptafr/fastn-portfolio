@@ -4,6 +4,7 @@
 -- import: package/lib as lib
 -- import: package/button as button
 -- import: package/social-buttons as social
+-- import: package/footer
 
 
 
@@ -161,7 +162,9 @@ width.fixed.px: 400
 ;; ***** PORTFOLIO Hero UI ends *****
 ;; ------------------------------------------
 
-
+-- footer.footer:
+title: Sneh Gupta
+link: https://github.com/snehguptafr
 
 -- end: layout.base-layout
 
